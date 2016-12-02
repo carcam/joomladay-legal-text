@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * @version     CVS: 1.0.0
+ * @package     com_esubcontratacion
+ * @subpackage  mod_esubcontratacion
+ * @author      Carlos <carlos@heptatechnologies.com>
+ * @copyright   Copyright (C) 2015. Todos los derechos reservados.
+ * @license     Licencia Pública General GNU versión 2 o posterior. Consulte LICENSE.txt
+ */
+defined('_JEXEC') or die;

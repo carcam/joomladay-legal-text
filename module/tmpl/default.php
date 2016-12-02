@@ -8,4 +8,9 @@
  
 defined('_JEXEC') or die;
 
-require JModuleHelper::getLayoutPath('joomladay_legal_text');
+<p>
+<?php echo $englishText; ?>
+</p>
+<p>
+<?php echo JText::sprintf('MOD_JOOMLADAY_LEGAL_TEXT_LEGAL_TEXT',JUri::root());?>
+</p>
