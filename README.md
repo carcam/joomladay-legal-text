@@ -1,0 +1,1 @@
+# joomladay-legal-text
